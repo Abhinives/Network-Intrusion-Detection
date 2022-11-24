@@ -7,10 +7,9 @@ Model Used:
 
 How to run this project
 
-	1. Extract rar file
-	2. Run Nwk_IDS_1
-	3. It generate scaled data, label encoded data, and model and also it generate EDA
-	4. After that just run streamlit app 'app.py'
+	1. Run Nwk_IDS_1
+	2. It generate scaled data, label encoded data, and model and also it generate EDA
+	3. After that just run streamlit app 'app.py'
 By doing this we need not want to run the model for each time, scale the data for each time. 
 
 
